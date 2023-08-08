@@ -31,7 +31,7 @@ I am a Frontend developer with 2 years of commercial experience <img src="https:
 
 ### 💻 Codewars:
 
-![codewars](https://www.codewars.com/users/FilimonovAlexey/badges/large)
+![codewars](https://www.codewars.com/users/paywall/badges/large)
 
 ### ⚙️ GitHub статистика:
 
