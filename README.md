@@ -6,11 +6,11 @@
 
 I am a Frontend developer with 2 years of commercial experience <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. I specialize in Javascript/TypeScript, React + Redux Toolkit. I actively participate in task planning and estimation within the team. I always focus on code quality and structure, following best practices. I pay special attention to cross-browser and cross-platform compatibility of the application, ensuring its reliability and stability as well as general optimization. I strive for continuous professional growth and learning.
 
-- :mailbox: Contact me: [![Telegram Badge](https://img.shields.io/badge/-korovinandrei-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/korovinandrei) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:korovinn96@gmail.com)
+Contact me: [![Telegram Badge](https://img.shields.io/badge/-korovinandrei-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/korovinandrei) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:korovinn96@gmail.com)
 
 ---
 
-### 💻 Технологии:
+### 💻 Technologies:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
@@ -32,5 +32,3 @@ I am a Frontend developer with 2 years of commercial experience <img src="https:
 ### 💻 Codewars:
 
 ![codewars](https://www.codewars.com/users/paywall/badges/large)
-
-
