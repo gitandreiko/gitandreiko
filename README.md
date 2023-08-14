@@ -4,7 +4,7 @@
 
 ### :man_technologist: About me:
 
-React developer | 2 years of commercial experience <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> | Javascript/TypeScript, React + Redux Toolkit, Sass
+React developer   |   2 years of commercial experience <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">   |   Javascript/TypeScript, React + Redux Toolkit, Sass
 
 Contact me: [![Telegram Badge](https://img.shields.io/badge/-korovinandrei-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/korovinandrei) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:korovinn96@gmail.com)
 
