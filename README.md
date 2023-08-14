@@ -4,7 +4,7 @@
 
 ### :man_technologist: About me:
 
-I am a Frontend developer with 2 years of commercial experience <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. I specialize in Javascript/TypeScript, React + Redux Toolkit. I actively participate in task planning and estimation within the team. I always focus on code quality and structure, following best practices. I pay special attention to cross-browser and cross-platform compatibility of the application, ensuring its reliability and stability as well as general optimization. I strive for continuous professional growth and learning.
+React developer | 2 years of commercial experience <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> | Javascript/TypeScript, React + Redux Toolkit, Sass
 
 Contact me: [![Telegram Badge](https://img.shields.io/badge/-korovinandrei-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/korovinandrei) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:korovinn96@gmail.com)
 
